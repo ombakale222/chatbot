@@ -1,0 +1,10 @@
+
+os
+langchain-core==0.0.2
+langchain-groq==0.0.1
+langchain-community==0.0.1
+langgraph==0.1.0
+streamlit==1.21.0
+cohere==4.9.0
+faiss-cpu==1.7.3
+pydantic-v1==1.10.4
